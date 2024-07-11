@@ -34,6 +34,6 @@ To run the service using Docker, execute the following commands:
 - Now finally run the below docker commands to run this microservice in a container
 - Go to http://localhost:8080/swagger-ui/index.html#/fetch-controller where you can test the two endpoints.
 
-```sh
-docker build -t receipt-processor .
-docker run -p 8080:8080 receipt-processor
+  ```sh
+  docker build -t receipt-processor .
+  docker run -p 8080:8080 receipt-processor
