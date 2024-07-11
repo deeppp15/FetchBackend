@@ -12,6 +12,9 @@ All test cases have been successfully passed for various scenarios.
 ### Running the Service with Docker
 To run the service using Docker, execute the following commands:
 
+Required Softwares and Dependencies
+- Java 17
+
 ```sh
 docker build -t receipt-processor .
 docker run -p 8080:8080 receipt-processor
