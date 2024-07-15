@@ -37,3 +37,6 @@ To run the service using Docker, execute the following commands:
   docker build -t receipt-processor .
   docker run -p 8080:8080 receipt-processor
 - Go to http://localhost:8080/swagger-ui/index.html#/fetch-controller where you can test the two endpoints.
+
+### Output Link
+- [Video](https://drive.google.com/file/d/1RX3B-YFEBE2WOfcHnO2AYYUOOflWkt6W/view?usp=sharing)
