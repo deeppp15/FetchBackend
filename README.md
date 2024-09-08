@@ -1,6 +1,6 @@
 # Receipt Processor Challenge
-
-This repository contains a backend microservice developed in Spring Boot to extract relevant information from JSON receipt structures.
+Backend Springboot Rest API hosted on EC2 AWS.
+- This repository contains a backend microservice developed in Spring Boot to extract relevant information from JSON receipt structures.
 
 ### Features
 - Built following industry conventions for REST APIs.
